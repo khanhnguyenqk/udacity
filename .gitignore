@@ -106,3 +106,4 @@ aipy-nanodegree/part07/deep-learning-v2-pytorch-master/intro-to-pytorch/Cat_Dog_
 aipy-nanodegree/project02/flowers/
 *.pth
 deep-learning-v2-pytorch-master/intro-to-pytorch/Cat_Dog_data/
+deep-learning-v2-pytorch-master/convolutional-neural-networks/cifar-cnn/data/
