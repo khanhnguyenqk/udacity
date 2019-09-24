@@ -108,3 +108,4 @@ aipy-nanodegree/project02/flowers/
 deep-learning-v2-pytorch-master/intro-to-pytorch/Cat_Dog_data/
 deep-learning-v2-pytorch-master/convolutional-neural-networks/cifar-cnn/data/
 *.net
+deep-learning-v2-pytorch-master/word2vec-embeddings/data/text8
